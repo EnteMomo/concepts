@@ -11,6 +11,7 @@
 ## Minigames
 
 * [King of the Hill](minigames/king-of-the-hill.md)
+* [Arcade](minigames/arcade.md)
 
 ## Technical
 
